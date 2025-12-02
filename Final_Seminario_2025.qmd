@@ -1,0 +1,222 @@
+---
+title: "¿Quién salvará a Chile?: Preferencias por responsables para reducir la desigualdad"
+subtitle: "Seminario de Grado, conducente a la obtención del Grado Académico de Licenciado en Sociología.<br>Profesor guía: Juan Carlos Castillo"
+author: "Cristóbal Mejías G."
+date: 2025-12-01
+format: html
+execute:
+  echo: true
+lang: es
+---
+
+# Introducción
+
+La desigualdad de ingresos persiste como uno de los desafíos estructurales más críticos para la cohesión social en las democracias contemporáneas, afectando no solo el bienestar material, sino también la estabilidad política y la confianza institucional. Este fenómeno cobra especial relevancia en el caso de Chile, país que, a pesar de sus indicadores de crecimiento macroeconómico, mantiene una de las distribuciones de ingresos más desiguales dentro de la OCDE, con un coeficiente de Gini que históricamente ha oscilado en torno a 0.46 y una alta concentración de la riqueza en el 1% más rico de la población (OECD, 2021). En este contexto, comprender qué motiva a la ciudadanía a demandar o rechazar cambios en la distribución de recursos se ha vuelto una interrogante central para las ciencias sociales.
+
+Desde la literatura sociológica especializada, se ha intentado explicar el apoyo a la redistribución identificando una tensión normativa entre la responsabilidad estatal y la individual. Si bien la teoría clásica sugiere que el apoyo a la intervención pública depende inversamente del nivel de ingresos (Meltzer & Richard, 1981), la evidencia sociológica demuestra que estas preferencias están fuertemente condicionadas por creencias sobre la justicia distributiva: el apoyo al Estado aumenta cuando la desigualdad se percibe como resultado de la suerte o factores estructurales, y disminuye cuando se atribuye al esfuerzo y talento individual (Alesina & Angeletos, 2005; Piketty, 1995). Asimismo, esta disposición es moderada por expectativas de movilidad social (Benabou & Ok, 2001) y la confianza en las instituciones, sugiriendo que la legitimidad de la redistribución depende tanto del interés material como de la percepción de eficiencia gubernamental (Rothstein, 2011).
+
+Sin embargo, hasta ahora las investigaciones se han centrado predominantemente en los mecanismos de redistribución posteriores al mercado, asumiendo implícitamente que la única vía para corregir la desigualdad es la intervención fiscal del Estado (impuestos y transferencias), o bien, la aceptación de los resultados del mercado bajo una lógica de responsabilidad individual. Lindh y McCall (2023) advierten que este enfoque binario —Estado versus individuo— sesga la comprensión del fenómeno, pues ignora las preferencias ciudadanas respecto a las instituciones del mercado laboral mismo. Al centrarse solo en la redistribución estatal (la "celda D" en su tipología) , la literatura ha descuidado cómo los ciudadanos atribuyen responsabilidad a los actores privados y a las decisiones corporativas en la etapa de predistribución , subestimando el apoyo potencial a regulaciones que reduzcan la desigualdad salarial directamente en la fuente, antes de que sea necesaria la acción fiscal.
+
+Pasar por alto este factor resulta especialmente grave si se quiere comprender a fondo el conflicto distributivo en Chile, el cual no se agota en la crítica a la inacción estatal. Existe una dimensión menos explorada que apunta directamente a los actores privados, donde la ciudadanía identifica en el empresariado y en las élites económicas una fuente activa de desigualdad, caracterizada no solo por la acumulación de riqueza, sino por un trato percibido como injusto y abusivo (Lecaros et al., 2022; Madariaga, 2020). Mientras la literatura tradicional no suele considerar este punto, el presente estudio busca integrar la perspectiva de la predistribución con el fin de capturar la complejidad del malestar chileno. Se argumenta que se ha prestado escasa atención a cómo los ciudadanos demandan correcciones en la desigualdad de ingreso al propio mercado, desafiando la noción de que en las sociedades de libre mercado la ciudadanía acepta pasivamente la distribución salarial existente.
+
+En el contexto latinoamericano, y chileno en particular, la desafección hacia la vía estatal no es necesariamente ideológica, sino pragmática, derivada de dos falencias estructurales percibidas por la ciudadanía. Por un lado, existe una percepción de baja capacidad estatal, entendida como la incompetencia administrativa y técnica del aparato público para cumplir sus promesas de bienestar y ejecutar políticas eficientes (Rothstein, 2011). Por otro lado, emerge la figura de la captura del Estado, donde las instituciones políticas son vistas no como árbitros neutrales, sino como entidades cooptadas por las élites económicas para bloquear la redistribución y perpetuar sus privilegios (Durand, 2020; Gilens & Page, 2014). Ante un Estado diagnosticado como 'incapaz' de gestionar recursos o 'secuestrado' por los mismos que generan la desigualdad, surge la interrogante de si la ciudadanía desplaza su demanda de justicia directamente hacia la fuente del poder económico.
+
+Considerando estos antecedentes, la presente investigación busca responder: **¿En qué medida las percepciones de incapacidad y captura estatal influyen en que los ciudadanos chilenos atribuyan la responsabilidad de reducir la desigualdad a los actores del mercado en lugar de al Estado?**
+
+* **Objetivo General:** Analizar los factores políticos e institucionales asociados a la atribución de responsabilidades para la reducción de la desigualdad de ingresos en Chile.
+
+* **Objetivo específico 1:** Describir la distribución de las preferencias ciudadanas hacia los distintos tipos de responsabilidad (Estatal, de Mercado e Individual) en la reducción de la desigualdad de ingresos en Chile.
+
+* **Objetivo específico 2:** Determinar la influencia de la capacidad y captura del Estado en la probabilidad de demandar responsabilidad a los actores del mercado en lugar de soluciones estatales.
+
+* **Objetivo específico 3:** Identificar el perfil sociopolítico asociado a la atribución de responsabilidad individual, analizando el rol del estatus social y la posición ideológica en la defensa de la no-intervención.
+
+# Antecedentes
+
+## Responsabilidad
+
+### La evolución del debate distributivo
+
+La comprensión de las demandas ciudadanas frente a la desigualdad requiere, en primera instancia, una revisión de las aproximaciones teóricas tradicionales. La investigación sobre preferencias redistributivas comienza con el Modelo del Votante Mediano, desarrollado por Romer (1975) y reformulado por Meltzer y Richard (1981). Bajo este enfoque, se asume una equivalencia directa entre la búsqueda de justicia social y la demanda por mayor intervención fiscal, es decir, en la medida que un votante racional maximiza su utilidad, un aumento en la desigualdad de ingresos debería traducirse automáticamente en una mayor presión por impuestos y transferencias . Posteriormente, esta perspectiva fue matizada por autores como Alesina y Giuliano (2009), quienes integraron factores culturales, tales como la creencia en el esfuerzo personal; para explicar por qué la demanda redistributiva observada suele ser inferior a la predicha por los modelos económicos . En paralelo, la Teoría de los Recursos de Poder (TRP) desplazó el eje de análisis desde el individuo hacia el conflicto de clases, planteando que la redistribución no es solo un cálculo de utilidad, sino el resultado de la capacidad de los trabajadores para "desmercantilizar" su bienestar a través del Estado (Esping-Andersen, 1990; Korpi, 2006).
+
+Sin embargo, a pesar de sus diferencias, estas tradiciones solamente se centran en la distribución a través de la acción fiscal del Estado sobre el ingreso disponible. Esta restricción metodológica conlleva un sesgo crítico, pues al limitar la medición de las preferencias a la intervención gubernamental, se corre el riesgo de interpretar el rechazo a la vía fiscal como una validación de la desigualdad o una adhesión al libre mercado (Lindh & McCall, 2023) . Para superar esta limitación conceptual, es necesario distinguir analíticamente entre la redistribución (corrección ex post) y la predistribución (regulación ex ante). Autores como Hacker y Pierson (2010) advierten que la disputa política fundamental del siglo XXI se ha desplazado hacia las instituciones que determinan la estructura salarial antes de la intervención fiscal. Dado que para la mayoría de la población los ingresos laborales constituyen la principal fuente de bienestar, las preferencias sobre los mecanismos de regulación salarial, como sindicatos, leyes o políticas corporativas, configuran una dimensión de justicia distinta a la demanda por gasto social (Morgan & Kelly, 2013). La urgencia de incorporar al mercado como objeto de estudio se valida con la evidencia de que la desigualdad actual es impulsada por decisiones corporativas privadas, como la concentración de rentas en firmas líderes, y no solo por la inacción estatal (Tomaskovic-Devey et al., 2020).
+
+### La Responsabilidad Gubernamental: El estándar de la redistribución fiscal
+
+En este contexto, la categoría de Responsabilidad Gubernamental funciona como el ancla normativa de la discusión, constituyendo el punto de referencia clásico contra el cual se contrastan las demás tipologías. Esta dimensión agrupa a quienes identifican al Estado como el actor principal con la legitimidad y capacidad para corregir, ex post, los desequilibrios generados por el mercado. Su raíz teórica se remonta al modelo clásico de Meltzer y Richard (1981), donde el ciudadano reacciona a la desigualdad exigiendo una mayor intervención fiscal niveladora. No obstante, esta demanda trasciende el cálculo de utilidad inmediata; refleja también una visión institucional. Desde la perspectiva de la Teoría de Recursos de Poder, esta preferencia encarna la confianza en el Estado de Bienestar como el garante último de la equidad y la protección social frente a las fallas inherentes del mercado (Esping-Andersen, 1990; Korpi, 2006). Así, la vía gubernamental permanece como una opción central y mayoritaria, representando la exigencia de una corrección política y administrativa ante desigualdades percibidas como estructurales.
+
+### La Responsabilidad de Mercado: Agentes de la Pre-distribución
+
+La responsabilidad de Mercado es una categoría que agrupa a empresas privadas, sindicatos y personas de altos ingresos. Esta clasificación responde a la premisa de que la desigualdad no es un fenómeno natural del mercado libre, sino el resultado de lo que Hacker y Pierson (2010) denominan un "combate organizado", donde las élites corporativas han influido en las reglas económicas para concentrar las ganancias. En este sentido, la demanda ciudadana no se dirige a un ente abstracto, sino a instituciones con peso específico (McCall, 2013). 
+
+Bajo este marco, la inclusión de las personas de altos ingresos como una dimensión institucional y no individual posee una lógica propia, anclada en la Teoría de Recursos de Poder. Como argumenta Korpi (2006), estos actores no operan aislados, sino que poseen una concentración de recursos que les otorga una capacidad de veto y negociación capaz de estructurar las relaciones distributivas. La legitimidad de esta exigencia política se refuerza con Stiglitz (2012), quien sostiene que gran parte de la riqueza en la cima proviene de la búsqueda de rentas y no de la creación de valor productivo. Sayer (2015) complementa esta visión desde la economía moral, planteando que cuando la riqueza extrema se percibe como "no ganada", se genera una obligación de devolución hacia la sociedad que no se satisface con la caridad, sino con cambios estructurales en los mecanismos de acumulación.
+
+### La Responsabilidad Individual: Merecimiento y Justificación del Sistema
+
+Finalmente, la categoría de Responsabilidad Individual no debe interpretarse como un residuo técnico, sino como una legitimación activa de la desigualdad. Esta postura se fundamenta en la ideología de justificación del sistema descrita por Jost et al. (2003), donde existe una motivación psicológica para percibir el status quo como justo y necesario, reduciendo así la disonancia cognitiva. El mecanismo operativo de esta legitimación reside en lo que Van Oorschot (2000) define como el criterio de "controlabilidad": si la sociedad percibe que el individuo tiene control total sobre su destino, la pobreza deja de verse como una falla estructural y se reinterpreta como una falla moral interna, desactivando la demanda de intervención externa. 
+
+Este juicio moral, sin embargo, suele estar mediado por sesgos sociales. Gilens (1999) advierte que las normas de merecimiento están frecuentemente racializadas o estigmatizadas, atribuyendo a ciertos grupos la violación de la ética del trabajo, lo que refuerza la preferencia por soluciones individualistas. Esta distorsión se ve agravada por lo que Son Hing et al. (2019) denominan "ceguera estructural": en sociedades segregadas, la invisibilización de las barreras sistémicas permite que las narrativas meritocráticas persistan incluso cuando la movilidad social real se estanca. En consecuencia, quienes se ubican en esta tipología no son meros escépticos de la capacidad estatal, sino actores que, validados por estas percepciones normativas, absuelven a las instituciones de responsabilidad correctiva.
+
+## Factores asociados
+
+### Capacidad Estatal
+Para comprender las preferencias distributivas no basta con examinar el posicionamiento ideológico; es crucial considerar la dimensión funcional y la factibilidad percibida de la intervención. Besley y Persson (2011) establecen que la capacidad estatal, entendida como la habilidad administrativa y fiscal para implementar políticas, es un pre-requisito funcional para el estado de bienestar. En contextos donde esta capacidad es deficiente, la ciudadanía considera que demandar redistribución a un Estado percibido como incompetente es una estrategia ineficaz, pues se anticipa que los recursos serán malgastados o no cumplirán la función inicial (Rothstein, 2011).
+
+La literatura reciente valida la racionalidad detrás de este cálculo. Kuziemko et al. (2015) demuestran empíricamente que la demanda por redistribución es elástica respecto a la confianza institucional. Cuando la desconfianza en la capacidad del gobierno aumenta, los ciudadanos retiran su apoyo a las transferencias fiscales tradicionales (impuestos), pero mantienen un fuerte apoyo a intervenciones directas en el mercado, como el aumento del salario mínimo. Este hallazgo sugiere que la percepción de baja capacidad estatal no desactiva el deseo de igualdad, sino que lo redirige. Así, exigir a las empresas y sindicatos que corrijan la desigualdad en la etapa de pre-distribución se convierte en una estrategia adaptativa racional ante la evidencia de un Estado fallido en su rol redistributivo.
+
+* **H1a: Quienes tengan una mejor percepción de la capacidad estatal, tendrán mayor probabilidad de seleccionar la responsabilidad gubernamental, en comparaciones a quienes tengan peor percepción.**
+
+* **H1b: Quienes tengan una peor percepción de la capacidad estatal, tendrán mayor probabilidad de seleccionar la responsabilidad de mercado, en comparaciones a quienes tengan mejor percepción.**
+
+## La Captura del Estado 
+
+Más allá de la capacidad técnica, la desafección hacia la vía estatal se explica por una crisis de autonomía política. Si bien la teoría clásica sugiere que en democracias desiguales el votante medio debería presionar por mayor redistribución fiscal, Bartels (2008) documenta que los sistemas políticos a menudo responden casi exclusivamente a las preferencias de los ciudadanos más ricos, ignorando las demandas de la mayoría. Kelly (2019) conceptualiza este fenómeno como la "Trampa de la Desigualdad", la cual se define como la concentración extrema de riqueza que se traduce en poder político, permitiendo que las élites bloqueen las políticas redistributivas y perpetúen sus privilegios. En América Latina, este problema adquiere características sistémicas bajo la figura de la "Captura del Estado", donde corporaciones y grupos de interés moldean las leyes y regulaciones para su beneficio exclusivo, deslegitimando al Estado como árbitro neutral (Durand, 2020).
+
+En este escenario, donde el sistema fiscal es visto como un mecanismo cooptado, la pre-distribución emerge como la alternativa lógica. Hacker y Pierson (2010) sostienen que la desigualdad contemporánea es fundamentalmente un problema de reglas de mercado sesgadas y debilitamiento sindical, por lo que la redistribución fiscal ex post actúa solo como un correctivo insuficiente si no se abordan las asimetrías de poder originales. Dimick (2014) señala que la preferencia política por la pre-distribución gana fuerza porque ataca la "fuente" de la injusticia económica, evitando que los recursos pasen por un Estado bajo sospecha de captura. Por consiguiente, cuando la ciudadanía percibe que el intermediario político obedece a las élites, desplaza su demanda de justicia directamente hacia los actores del Mercado, exigiendo que las empresas asuman la responsabilidad de resolver la desigualdad.
+
+* **H2a: A mayor percepción de Captura del Estado, aumentará la probabilidad de seleccionar la responsabilidad de mercado.**
+
+* **H2b: A menor percepción de Captura del Estado, aumentará la probabilidad de seleccionar la responsabilidad gubernamental.**
+
+## Defensa Ideológica de no intervención
+
+Para fundamentar el perfil de quienes atribuyen la responsabilidad al individuo, es vital recurrir al concepto de Justicia de Mercado desarrollado por Robert Lane (1986). Bajo esta perspectiva, la ideología de libre mercado no opera únicamente como una preferencia técnica por la eficiencia económica, sino como una visión normativa donde los resultados distributivos, sin importar que sean desigual, se perciben como justos y merecidos. Esta postura se alinea con la teoría de la justificación del sistema de Jost et al. (2003), quienes argumentan que los individuos en posiciones de privilegio social o con orientaciones políticas conservadoras poseen una motivación psicológica robusta para racionalizar las jerarquías existentes como legítimas, sin la necesidad de buscar correcciones en el sistema.
+
+Esta racionalización se refuerza mediante esquemas de merecimiento basados en la capacidad de control, tal como sugiere Van Oorschot (2000). Desde esta óptica, el éxito o el fracaso económico se interpretan como el resultado exclusivo del esfuerzo personal y el talento, restándole importancia a las instituciones. En consecuencia, se espera que los grupos de mayor estatus y de derecha no se desplacen hacia la demanda de regulación empresarial (que implica reconocer una falla en el mercado), sino que se refugien en la categoría de Responsabilidad Individual, defendiendo la autonomía de los resultados privados frente a cualquier interferencia redistributiva.
+
+* **H3a: El Estatus Social Subjetivo alto se asocia positivamente con la probabilidad de seleccionar la responsabilidad individual.**
+
+* **H3b: Quienes son de derecha tendrán mayor probabilidad de seleccionar la responsabilidad individual, en comparaciones a quienes son de izquierda .**
+
+## Variables de control
+
+Como control se incluyen tanto variables demográficas: Nivel educacional, Sexo, Edad, Ingresos del hogar.
+
+# Metodología
+
+## Fuente de datos y muestra
+
+La presente investigación utiliza datos correspondientes al módulo Social Inequality V del International Social Survey Programme (ISSP) del año 2019. Específicamente se analiza la muestra de Chile, cuyos datos fueron recolectados en el marco de la Encuesta Nacional de Opinión Pública N.º 83 del Centro de Estudios Públicos (CEP).
+
+El trabajo de campo se realizó entre el 26 de abril y el 3 de junio de 2019. El universo de estudio abarca a la población de 18 años y más, residente en zonas urbanas y rurales de todo el territorio nacional (excluyendo Isla de Pascua, Palena y la Antártica Chilena). Se utilizó un diseño muestral probabilístico, estratificado y multietápico, alcanzando una tasa de respuesta del 71%. Tras el procesamiento de datos y limpieza de casos perdidos, la muestra analítica final comprende un total de N = 1.380 individuos (Centro de Estudios Públicos, 2019; Steinmetz et al., 2022).
+
+## Operacionalización de variables
+
+### Variable Dependiente
+
+<br>
+
+**Responsable por reducir la desigualdad  (M2_P5):**
+
+Esta variable contiene el fraseo "¿Quién cree Ud. que debería tener la mayor responsabilidad en reducir las diferencias de ingreso entre las personas con altos ingresos y aquellas con bajos ingresos?". La categoría de respuesta inicial son: 1) Las empresas 2) El Estado 3) Los sindicatos 4) Las personas de altos ingresos 5) Las personas de bajos ingresos y 6) Las diferencias de ingresos no deberían reducirse. Estas categorías fueron agrupadas en 3 grupos: 1) Responsabilidad de mercado (Empresas, Sindicatos, Personas de altos ingresos) 2) Responsabilidad individual (Personas de bajos ingresos, Las diferencias de ingresos no deberían reducirse) y 3) Responsabilidad gubernamental (Estado).
+
+### Variables Independientes
+
+<br>
+
+**Percepción de Capacidad Estatal (M2_P7):**
+
+Esta variable evalúa la eficacia percibida del Estado. A partir de la pregunta "¿Qué tan bueno o malo cree Ud. que es el Estado de Chile en reducir las diferencias de ingreso...?", y cuyas categorías de respuestas son una escala likert que va desde 1) Muy bueno a 5) Muy malo, se generó una variable ordinal de tres niveles: 1) Baja capacidad (agrupa "Muy malo" y "Algo malo") 2) Media capacidad (corresponde a "Ni bueno ni malo") y 3) Alta capacidad (agrupa "Muy bueno" y "Algo bueno"), 
+
+**Percepción de Captura del Estado: (M2_P21_3) y  (M2_P21_4)** 
+
+Escala aditivo diseñada para medir la percepción de influencia de las élites en las políticas públicas. Se construyó promediando dos ítems: "Los ciudadanos más ricos tienen más influencia que los demás ciudadanos en las políticas públicas" (M2_P21_3) y "Las empresas y grupos de interés influyen enormemente en las políticas públicas" (M2_P21_4). Ambos ítems cuentan con respuestas tipo liker de acuerdo, desde 1) muy de acuerdo a 5) muy en desacuerdo. Las categorías fueron estandarizadas en un rango de 0 a 1 (muy de acuerdo=1, de acuerdo=0.75, ni de acuerdo ni en desacuerdo=0.50, en desacuerdo=0.25 y muy en desacuerdo=0), luego se obtiene la media entre los 2 ítems para obtener los puntajes individuales. El índice resultante es una variable continua donde valores cercanos a 1 indican una percepción máxima de captura del Estado por las élites.
+
+**Posición Política (MB_P14):**
+
+Autoidentificación en escala izquierda-derecha, recodificada en cuatro categorías: Derecha, Centro, Izquierda y Sin Posición
+
+**Estatus Social Subjetivo (M2_P13A):** 
+
+Variable continua (escala 1-10) sobre la autopercepción de posición en la jerarquía social.
+
+### Variables de Control
+
+<br>
+
+**Nivel Educacional (DS_P4):** Variable recodificada (Universitaria completa = 1; incompleta o inferior = 0) 
+
+**Ingresos del hogar (DS_P39):** (recodificado en cuartiles) 
+
+**Sexo (DS_P1):**  (Mujer = 1, Hombre = 0).
+
+**Edad (DS_P2_EXACTA):** Variable continua en años.
+
+## Estrategia Analítica
+El análisis se estructura en dos etapas. Primero, se presentan estadísticos descriptivos univariados y bivariados (tablas de contingencia y test de chi^2) para explorar la distribución de las variables y sus asociaciones preliminares.
+En segundo lugar, para testear las hipótesis de investigación, se estima un Modelo de Regresión Logística Multinomial. Esta técnica es la adecuada dado que la variable dependiente es nominal y politómica (tres categorías). Todos los cálculos serán realizados utilizando el software “R” [versión=4.5.0].
+
+# Biliografía
+Alesina, A., & Angeletos, G. M. (2005). Fairness and redistribution. American Economic Review, 95(4), 960–980. https://doi.org/10.1257/0002828054825655
+
+Alesina, A., & Giuliano, P. (2009). Preferences for redistribution (IZA Discussion Paper No. 4056). Institute for the Study of Labor (IZA).
+
+Alesina, A., & Glaeser, E. L. (2004). Fighting poverty in the US and Europe: A world of difference. Oxford University Press.
+
+Bartels, L. M. (2008). Unequal democracy: The political economy of the new gilded age. Princeton University Press.
+
+Benabou, R., & Ok, E. A. (2001). Social mobility and the demand for redistribution: The POUM hypothesis. The Quarterly Journal of Economics, 116(2), 447–487. https://doi.org/10.1162/00335530151144078
+
+Besley, T., & Persson, T. (2011). Pillars of prosperity: The political economics of development clusters. Princeton University Press.
+
+Centro de Estudios Públicos. (2019). Estudio Nacional de Opinión Pública N.º 83, Mayo 2019 [Archivo de datos]. https://www.cepchile.cl
+
+Dimick, M. (2014). Should the law do anything about economic inequality? Cornell Journal of Law and Public Policy, 23, 1–69.
+
+Durand, F. (2020). La captura del Estado en América Latina: Reflexiones teóricas. Fondo Editorial PUCP.
+
+Esping-Andersen, G. (1990). The three worlds of welfare capitalism. Princeton University Press.
+
+Fukuyama, F. (2014). Orden y decadencia de la política: Desde la Revolución Industrial a la globalización de la democracia. Ediciones Deusto.
+
+Gilens, M. (1999). Why Americans hate welfare: Race, media, and the politics of antipoverty policy. University of Chicago Press.
+
+Gilens, M., & Page, B. I. (2014). Testing theories of American politics: Elites, interest groups, and average citizens. Perspectives on Politics, 12(3), 564–581.
+
+Hacker, J. S., & Pierson, P. (2010). Winner-take-all politics: Public policy, political organization, and the precipitous rise of top incomes in the United States. Politics & Society, 38(2), 152–204.
+
+Jost, J. T., Blount, S., Pfeffer, J., & Hunyady, G. (2003). Fair market ideology: Its cognitive-motivational underpinnings. Research in Organizational Behavior, 25, 53–91.
+
+Kelly, N. J. (2019). America's inequality trap: How economic inequality feeds on itself. University of Chicago Press.
+
+Korpi, W. (2006). Power resources and employer-centered approaches in explanations of welfare states and varieties of capitalism: Protagonists, consenters, and antagonists. World Politics, 58(2), 167–206.
+
+Kuziemko, I., Norton, M. I., Saez, E., & Stantcheva, S. (2015). How elastic are preferences for redistribution? Evidence from randomized survey experiments. American Economic Review, 105(4), 1478–1508.
+
+Lecaros, I., Paz Cruzat, D., Pommer Muñoz, R., Tillan, P., & Walton, M. (2022). Inequality in Chile: Perceptions and patterns. IMAGO Global Grassroots.
+
+Lindh, A., & McCall, L. (2023). Bringing the market in: An expanded framework for understanding popular responses to economic inequality. Socio-Economic Review, 21(2), 1035–1055. https://doi.org/10.1093/ser/mwac018
+
+López, M., Vilalta, C., & Fonseca, D. (2020). Elite perception of inequality and redistribution in Latin America (WIDER Working Paper 2020/127). United Nations University.
+
+Madariaga, A. (2020). The three pillars of neoliberalism: Chile's economic policy trajectory in comparative perspective. Palgrave Macmillan.
+
+McCall, L. (2013). The undeserving rich: American beliefs about inequality, opportunity, and redistribution. Cambridge University Press.
+
+Meltzer, A. H., & Richard, S. F. (1981). A rational theory of the size of government. Journal of Political Economy, 89(5), 914–927.
+
+OECD. (2021). Does inequality matter? How people perceive economic disparities and social mobility. OECD Publishing.
+
+Piketty, T. (1995). Social mobility and redistributive politics. The Quarterly Journal of Economics, 110(3), 551–584. https://doi.org/10.2307/2946692
+
+Rojas Flores, G. (2025). El fenómeno de la captura y el proceso de (des)democratización: Apuntes teóricos. Interconectando Saberes, 9(Dossier 2), 55–69.
+
+Romer, T. (1975). Individual welfare, majority voting, and the properties of a linear income tax. Journal of Public Economics, 4(2), 163–185.
+
+Rothstein, B. (2011). The quality of government: Corruption, social trust, and inequality in international perspective. University of Chicago Press.
+
+Rothstein, B., & Uslaner, E. M. (2005). All for all: Equality, corruption, and social trust. World Politics, 58(1), 41–72.
+
+Sayer, A. (2015). Why we can’t afford the rich. Policy Press.
+
+Soifer, H. D. (2015). State building in Latin America. Cambridge University Press.
+
+Son Hing, L. S., Wilson, A. E., Gourevitch, P., English, J., & Sin, P. (2019). Failure to respond to rising income inequality: Processes that legitimize growing disparities. Dædalus, 148(3), 105–135.
+
+Steinmetz, S., Sapin, M., & Joye, D. (2022). International Social Survey Programme: Social Inequality V - ISSP 2019 (ZA7600 Versión 3.0.0) [Conjunto de datos]. GESIS Data Archive for the Social Sciences. https://doi.org/10.4232/1.14009
+
+Stiglitz, J. E. (2012). The price of inequality: How today’s divided society endangers our future. W. W. Norton & Company.
+
+Tomaskovic-Devey, D., Rainey, A., Avent-Holt, D., Bandelj, N., Bozad, I., Cort, D., Godechot, O., Hajdu, G., Hällsten, M., Henriksen, L. F., Hermansen, A. S., Hou, F., Jung, J., Kanjuo-Mrčela, A., King, J., Kodama, N., Kristal, T., Křížková, A., Lippényi, Z., . . . Tufail, Z. (2020). Rising between-workplace inequalities in high-income countries. PNAS, 117(16), 8820–8826.
+
+Van, Oorschot, W. (2000). Who should get what, and why? On deservingness criteria and the conditionality of solidarity among the public. Policy & Politics, 28(1), 33–48.
