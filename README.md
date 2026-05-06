@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Licenciatura_en_Sociología-1565C0?style=for-the-badge" alt="Sociología"/>
   <img src="https://img.shields.io/badge/2025-555?style=for-the-badge" alt="2025"/>
 </p>
+
 ---
  
 Propuesta de Seminario de Grado para optar al título de **Licenciado en Sociología**.
@@ -19,6 +20,7 @@ Los datos provienen del módulo **ISSP Social Inequality V** (Chile, 2019 — CE
     <strong>→ Ver propuesta completa</strong>
   </a>
 </p>
+
 ---
  
 | | |
