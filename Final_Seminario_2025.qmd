@@ -16,6 +16,9 @@ format:
 execute:
   echo: true
 lang: es
+include-in-header:
+  text: |
+    <style>p { text-align: justify; }</style>
 ---
 
 ## Introducción
