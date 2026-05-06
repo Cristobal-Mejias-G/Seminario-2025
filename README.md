@@ -17,7 +17,7 @@ Los datos provienen del módulo **ISSP Social Inequality V** (Chile, 2019 — CE
  
 <p align="center">
   <a href="https://cristobal-mejias-g.github.io/Seminario-2025/Final_Seminario_2025.html">
-    <strong>→ Ver propuesta completa</strong>
+    <strong> Ver propuesta completa</strong>
   </a>
 </p>
 
