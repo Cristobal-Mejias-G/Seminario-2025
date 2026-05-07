@@ -23,8 +23,8 @@ Los datos provienen del módulo **ISSP Social Inequality V** (Chile, 2019 — CE
 
 ---
 
-|---|---|
 |||
+|---|---|
 | **Autor** | Cristóbal Mejías González |
 | **Profesor guía** | Juan Carlos Castillo |
 | **Estado** | Propuesta — 2025 |
