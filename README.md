@@ -16,7 +16,7 @@ La investigación examina a quién atribuyen los ciudadanos chilenos la responsa
 Los datos provienen del módulo **ISSP Social Inequality V** (Chile, 2019 — CEP, N = 1.380). La estrategia analítica contempla estadísticos descriptivos y un modelo de **regresión logística multinomial**.
  
 <p align="center">
-  <a href="https://cristobal-mejias-g.github.io/Seminario-2025/Final_Seminario_2025.html">
+  <a href="https://cristobal-mejias-g.github.io/seminario-2025/Final_Seminario_2025.html">
     <strong> Ver propuesta completa</strong>
   </a>
 </p>
